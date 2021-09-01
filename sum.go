@@ -12,7 +12,7 @@ func main(){
 func addition(a int, b int){
 	
 	c := a + b
-	fmt.Println(c)
+	fmt.Println("The sum is:", c)
 }
 
 /* or
